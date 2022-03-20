@@ -1,9 +1,11 @@
 # Twitter to Kafka Service
 
 ### Use Tech
-- Spring Boot
+- Java
+- Microservices
+- Spring
 - Kafka
-- Spring Cloud
+- Elasticsearch
 
 ### Version [ 0.0.1-SNAPSHOT ]
 
