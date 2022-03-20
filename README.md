@@ -11,4 +11,4 @@
 - `maven-compiler-plugin`  added in pom.xml.
 
 ### Changed
-- Prepared new tag for easy manage related dependencies and plugins versions.
+- Prepared new tags for easy manage related dependencies and plugins versions.
